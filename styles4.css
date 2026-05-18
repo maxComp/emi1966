@@ -1,0 +1,276 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background:#CCEEFF;
+padding:0px;
+margin:0px;
+min-height:100%;
+}
+.content {
+top:5px;
+bottom:0px;
+left:0px;
+right:0px;
+margin-bottom:30px;
+}
+.footer {
+position:fixed;
+height:18px;
+left:0px;
+right:0px;
+bottom:0px;
+background:#FFF;
+color:#888;
+text-align:center;
+padding:0px 0px 0px 0px;
+border-top:5px solid #CCEEFF;
+border-bottom:5px solid #CCEEFF;
+font-size:12px;
+}
+.card {
+background:#FFF;
+border:1px solid #CCEEFF;
+border-bottom:3px solid #CCEEFF;
+padding:0px;
+margin:20px;
+}
+.card h3 {
+text-align:center;
+margin:0px;
+padding:10px;
+padding-bottom:0px;
+}
+.card p {
+margin:0px;
+padding:10px;
+font-size:20px;
+}
+.card-image {
+width:100%;
+height:250px;
+padding:0px;
+margin:0px;
+background-position:center;
+background-repeat:no-repeat;
+position:relative;
+}
+.card-image h1,
+.card-image h2,
+.card-image h3,
+.card-image h4,
+.card-image h5,
+.card-image h6 
+.card-image h7,
+.card-image h8,
+.card-image h9,
+.card-image h10,
+.card-image h11,
+.card-image h12,
+.card-image h13,
+.card-image h14,
+.card-image h15,
+.card-image h16,
+.card-image h17,
+.card-image h18,
+.card-image h19,
+.card-image h20,
+.card-image h21,
+.card-image h22,
+.card-image h23,
+.card-image h24,
+.card-image h25,
+.card-image h26,
+.card-image h27,
+.card-image h28,
+.card-image h29,
+.card-image h30,
+.card-image h31,
+.card-image h32,
+.card-image h33,
+.card-image h34,
+.card-image h35,
+.card-image h36,
+.card-image h37,
+.card-image h38,
+.card-image h39,
+.card-image h40,
+.card-image h41,
+.card-image h42,
+.card-image h43,
+.card-image h44
+{
+position:absolute;
+bottom:0px;
+width:100%;
+color:white;
+background:rgba(0,0,0,0.65);
+margin:0px;
+padding:6px;
+border:none;
+}
+.image1 {
+background-image:url('sound.png');
+}
+.image2 {
+background-image:url('caldream.png');
+}
+.image3 {
+background-image:url('jfk.png');
+}
+.image4 {
+background-image:url('bonan.png');
+}
+.image5 {
+background-image:url('manyear.png');
+}
+.image6 {
+background-image:url('ryun.png');
+}
+.image7 {
+background-image:url('smylie.png');
+}
+.image8 {
+background-image:url('lyndon.png');
+}
+.image9 {
+background-image:url('indera.png');
+}
+.image10 {
+background-image:url('trek.png');
+}
+.image11 {
+background-image:url('turing.png');
+}
+.image12 {
+background-image:url('boise');
+}
+.image13 {
+background-image:url('.jpg');
+}
+.image14 {
+background-image:url('.jpg');
+}
+.image15 {
+background-image:url('.gif');
+}
+.image16 {
+background-image:url('.jpg');
+}
+.image17 {
+background-image:url('.jpg');
+}
+.image18 {
+background-image:url('.jpg');
+}
+.image19 {
+background-image:url('.jpg');
+}
+.image20 {
+background-image:url('.jpg');
+}
+.image21 {
+background-image:url('.jpg');
+}
+.image22 {
+background-image:url('.jpg');
+}
+.image23 {
+background-image:url('.jpg');
+}
+.image24 {
+background-image:url('.jpg');
+}
+.image25 {
+background-image:url('.jpg');
+}
+.image26 {
+background-image:url('.jpg');
+}
+.image27 {
+background-image:url('.jpg');
+}
+.image28 {
+background-image:url('.jpg');
+}
+.image29 {
+background-image:url('.jpg');
+}
+.image30 {
+background-image:url('.jpg');
+}
+.image31 {
+background-image:url('.jpg');
+}
+.image32 {
+background-image:url('.jpg');
+}
+.image33 {
+background-image:url('.jpg');
+}
+.image34 {
+background-image:url('.jpg');
+}
+.image35 {
+background-image:url('.jpg');
+}
+.image36 {
+background-image:url('.jpg');
+}
+.image37 {
+background-image:url('.jpg');
+}
+.image38 {
+background-image:url('.jpg');
+}
+.image39 {
+background-image:url('.jpg');
+}
+.image40 {
+background-image:url('.jpg');
+}
+.image41 {
+background-image:url('.jpg');
+}
+.image42 {
+background-image:url('.jpg');
+}
+.image43 {
+background-image:url('.jpg');
+}
+.image44 {
+background-image:url('.jpg');
+}
+.image45 {
+background-image:url('.jpg');
+}
+.image46 {
+background-image:url('.jpg');
+}
+.image47 {
+background-image:url('.jpg');
+}
+.image48 {
+background-image:url('.jpg');
+}
+.image49 {
+background-image:url('.jpg');
+}
+.image50 {
+background-image:url('.jpg');
+}
+button {
+    background-color:#CCEEFF;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius:10px;
+    color: black;
+    font-family: 'Oswald';
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+     border-style:solid;
+}
+button:hover {
+    border: none;
+    background:red;
+    box-shadow: 0px 0px 1px #777;    
+} 
